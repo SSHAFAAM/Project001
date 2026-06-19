@@ -1,6 +1,9 @@
-Flask
-gunicorn
-opencv-python-headless
-numpy
-ultralytics
-Pillow
+Flask==3.0.3
+gunicorn==22.0.0
+ultralytics==8.3.0
+opencv-python-headless==4.10.0.84
+numpy==2.0.1
+Pillow==10.4.0
+torch
+torchvision
+torchaudio
